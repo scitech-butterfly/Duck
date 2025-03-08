@@ -1,9 +1,11 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+// Main.java
+
+// Name: Kashvi Singh
+// PRN: 23070126057
+// Batch: AIML A3
+
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
         MallardDuck md  = new MallardDuck();
         System.out.println("---------------");
         md.display();
